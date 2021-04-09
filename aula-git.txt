@@ -5,3 +5,5 @@ Papel
 Pincéis
 Folhas
 Telas
+
+"Será criado uma aba para cada item que será vendido"
